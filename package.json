@@ -1,0 +1,16 @@
+{
+  "name": "lingua-fusion",
+  "version": "0.0.1",
+  "description": "A Website that changes the language of the content base on the language that the browser of the user uses using OpenAI GPT-3 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Comas",
+  "license": "WTFPL",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
